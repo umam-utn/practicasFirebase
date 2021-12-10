@@ -1,0 +1,17 @@
+html {font-family: sans-serif; text-align: center}
+body {display: inline-block; text-align: left; width: 100%;}
+section { text-align: justify; display: block; padding: 1em;}
+button{color: white; font-weight:bold; border-radius: 5px; border: none; margin: auto; padding: 0.5em; box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.6); cursor: pointer;}
+.salir{background-color: red;}
+.enviar{background-color: green;}
+img{border: 1.5px outset black; }
+label, legend {font-weight: bold}
+*:required {border: thin solid blue}
+input{padding: 0.5em;}
+footer{
+	text-align: center;
+	font-size: small;
+	border-top: 1px black solid;
+	margin-top: 1em;
+	padding: 1em;
+}
